@@ -1,16 +1,13 @@
-### Hi there 👋
+# Nicolas Paul
 
-<!--
-**nc0fr/nc0fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [www.nc0.fr][site]
+- [n@nc0.fr][mail] ([`32C1 D8E6 97AB A8F1 7BE4  E0D7 C147 8EC7 1E6E 6923`][pgp])
+- [@nc0_fr][twitter]
 
-Here are some ideas to get you started:
+[site]: https://nc0.fr
+[mail]: mailto:n@nc0.fr?subject=Hello%20from%20GitHub!
+[twitter]: https://x.com/@nc0_fr
+[pgp]: https://nc0.fr/pgp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recent: *(TODO)*
+
